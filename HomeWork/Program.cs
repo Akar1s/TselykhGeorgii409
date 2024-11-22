@@ -1,10 +1,21 @@
-﻿namespace HomeWork
+﻿using HomeWork.Anagram;
+using HomeWork.LongestSubstring;
+using HomeWork.NumbersFromTheString;
+using HomeWork.Palindrome;
+using HomeWork.TextCapitalization;
+
+namespace HomeWork
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
+        public static void Main(string[] args)
+        {   
+            //AnagramClass.Anagram();
+            //LongestSubstringClass.LongestSubstring();
+            //NumbersFromStringClass.NumbersFromString();
+            //PalindromeClass.Palindrome();
+            //CapitalizationClass.Capitalization();
+            
         }
     }
 }
