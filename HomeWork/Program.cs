@@ -1,5 +1,6 @@
 ﻿using AboutMeOOP;
 using HomeWork.Anagram;
+using HomeWork.Hierarchy;
 using HomeWork.LongestSubstring;
 using HomeWork.NumbersFromTheString;
 using HomeWork.Palindrome;
@@ -16,8 +17,8 @@ namespace HomeWork
             //NumbersFromStringClass.NumbersFromString();
             //PalindromeClass.Palindrome();
             //CapitalizationClass.Capitalization();
-            AboutMeOOP.MyInfo.AboutMe();
-            
+            //AboutMeOOP.MyInfo.AboutMe();
+            HierarchyClass.Hierarchy();
         }
     }
 }
