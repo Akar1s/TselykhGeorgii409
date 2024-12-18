@@ -4,6 +4,7 @@ using HomeWork.Hierarchy;
 using HomeWork.LongestSubstring;
 using HomeWork.NumbersFromTheString;
 using HomeWork.Palindrome;
+using HomeWork.PerimeterAndAreaOfFigure;
 using HomeWork.TextCapitalization;
 
 namespace HomeWork
@@ -18,7 +19,8 @@ namespace HomeWork
             //PalindromeClass.Palindrome();
             //CapitalizationClass.Capitalization();
             //AboutMeOOP.MyInfo.AboutMe();
-            HierarchyClass.Hierarchy();
+            //HierarchyClass.Hierarchy();
+            PerimeterAndArea.PerimeterArea();
         }
     }
 }
